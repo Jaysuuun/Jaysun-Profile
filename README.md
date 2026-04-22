@@ -1,4 +1,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello%20There&fontSize=90&animation=fadeIn" />
 
-# TESTING HEADER
+# ABOUT ME
+
+# LANGUAGES THAT I HAVE USED
+
+# TOOLS
+
+# GOALS
